@@ -8,7 +8,7 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone [https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git](https://github.com/DeveloperNilesh/The-Currency-Converter.git)
+    git clone https://github.com/DeveloperNilesh/The-Currency-Converter.git
     ```
 
 1. Install the required packages.
