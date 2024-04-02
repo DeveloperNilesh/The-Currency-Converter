@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/The-Currency-Converter/static/css/main.508775d4.css",
+    "main.js": "/The-Currency-Converter/static/js/main.1540cc1e.js",
+    "static/media/ibrahim-boran-_aUwE2DnIPg-unsplash.jpg": "/The-Currency-Converter/static/media/ibrahim-boran-_aUwE2DnIPg-unsplash.9e4069a2b7cf7ddad1a3.jpg",
+    "index.html": "/The-Currency-Converter/index.html",
+    "main.508775d4.css.map": "/The-Currency-Converter/static/css/main.508775d4.css.map",
+    "main.1540cc1e.js.map": "/The-Currency-Converter/static/js/main.1540cc1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.508775d4.css",
+    "static/js/main.1540cc1e.js"
+  ]
+}
